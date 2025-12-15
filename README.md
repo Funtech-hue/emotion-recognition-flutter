@@ -1,16 +1,25 @@
-# emotion_recognition_app
+# Emotion Recognition App (Flutter)
 
-A new Flutter project.
+A Flutter-based emotion recognition application using camera input
+and Luxand Cloud API.
 
-## Getting Started
+## Features
+- Camera capture
+- Gallery upload
+- Emotion detection
+- Front & back camera switch
+- Face alignment guide
 
-This project is a starting point for a Flutter application.
+## Platforms
+- ✅ Android
+- ✅ iOS
+- ⚠️ Web (API limitation )
 
-A few resources to get you started if this is your first Flutter project:
+## Setup
+1. Clone repository
+2. Add your Luxand API key in `service.dart`
+3. Run `flutter pub get`
+4. Run on Android or iOS
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Funtech
